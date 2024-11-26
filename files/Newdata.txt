@@ -1,0 +1,3 @@
+Milk: 5kg,  5 euro
+Paneer: 2kg, 10 euro
+Yoghurt: 2kg, 4 euro
